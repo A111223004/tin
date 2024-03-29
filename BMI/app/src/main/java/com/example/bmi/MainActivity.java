@@ -2,7 +2,6 @@ package com.example.bmi;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.app.appsearch.util.DocumentIdUtil;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.view.View;

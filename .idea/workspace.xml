@@ -4,19 +4,12 @@
     <shared>
       <config />
     </shared>
-    <layouts>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-        <config>
-          <theme>@style/Theme.BMI</theme>
-        </config>
-      </layout>
-    </layouts>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7692379f-20ec-4fea-a3a7-2add6401268c" name="Changes" comment="" />
+    <list default="true" id="becd3544-fea7-46d2-b22f-cc611a156968" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2e23EyWk4KtOZtrsfw0Iuk2WCqv" />
+  <component name="ProjectId" id="2eLqLSJmijK4ioEGMygvnMVtwOU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,7 +43,7 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="BMI.app.main" />
+      <module name="LinearLayoutDemo2.app.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -120,11 +113,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7692379f-20ec-4fea-a3a7-2add6401268c" name="Changes" comment="" />
-      <created>1711088737553</created>
+      <changelist id="becd3544-fea7-46d2-b22f-cc611a156968" name="Changes" comment="" />
+      <created>1711694150120</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1711088737553</updated>
+      <updated>1711694150120</updated>
     </task>
     <servers />
   </component>
