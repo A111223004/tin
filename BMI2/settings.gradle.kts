@@ -13,6 +13,8 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BMI"
+rootProject.name = "LinearLayoutDemo2"
+include(":app")
+include(":app")
 include(":app")
  

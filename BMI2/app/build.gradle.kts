@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    namespace = "com.example.bmi"
+    namespace = "com.example.linearlayoutdemo2"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.bmi"
-        minSdk = 30
+        applicationId = "com.example.linearlayoutdemo2"
+        minSdk = 24
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
